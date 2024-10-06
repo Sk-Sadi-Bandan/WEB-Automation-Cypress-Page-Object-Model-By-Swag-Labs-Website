@@ -1,0 +1,16 @@
+{
+
+    "InventoryLocators":{
+
+
+    "Backpack" : "div.inventory_item_name:contains('Sauce Labs Backpack')",
+    "AddToCart" : "button.btn_primary.btn_inventory",
+    "ShoppingCart" : "path[fill*='currentCol']",
+    "ContinueShopping" : "a.btn_secondary",
+    "TShirt" : "div.inventory_item_name:contains('Sauce Labs Bolt T-Shirt')",
+    "Checkout" : "a.btn_action.checkout_button"
+
+    
+    }
+
+}

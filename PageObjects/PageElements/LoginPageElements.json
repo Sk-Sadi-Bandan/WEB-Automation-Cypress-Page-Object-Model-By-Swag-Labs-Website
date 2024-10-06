@@ -1,0 +1,12 @@
+{
+
+    "LoginPageLocators":{
+
+
+    "username_text" : "input[data-test='username']",
+    "password_text" : "input[type='password']#password",
+    "login_button" : "input#login-button"
+    
+    }
+
+}
